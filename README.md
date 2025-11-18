@@ -1,8 +1,6 @@
-# 🤖 Welcome to my scripts! 🤖
+# Welcome to my toolbox! 🤖
 
-I love coding but hate doing the same repetitive tasks over and
-over. That's why I've put together these automation scripts—to
-help simplify those mundane tasks. Feel free to use them if they
-work for you.
+This is a collection of everything I can reuse for my personal and
+professional projects, with minimal modifications.
 
-Happy automating!
+Feel free to use anything that suits your needs!
